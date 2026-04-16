@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-05:34:56	31818/31818	---MC-	200	added ('OK')	text/html	date:Thu,%2016%20Apr%202026%2000:04:57%20GMT	https://learn.skillogic.com/home/login	C:/skillogic_frontend/learn.skillogic.com/home/login.html	(from )
-05:34:56	24792/24792	---MC-	200	added ('OK')	text/html	date:Thu,%2016%20Apr%202026%2000:04:58%20GMT	https://learn.skillogic.com/robots.txt		(from )
