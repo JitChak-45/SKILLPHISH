@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+learn.skillogic.com	TRUE	/	FALSE	1999999999	ci_session	6576fnb9fhmn2je5fpjag0cvfsi17p1b
+
